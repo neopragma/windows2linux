@@ -96,7 +96,9 @@ If you're using the Windows Subsystem for Linux (WSL), you install Ubuntu throug
 
 ## Transferring your data (files) 
 
-Whenever you migrate your work from one computer to another, you need to transfer your files. 
+Whenever you migrate your work from one computer to another, you need to transfer your files. If you're going to stop using Windows, you'll need to do this. 
+
+If you're going to use a dual-boot setup, you can use One Drive from both operating systems to share files. If you're using Windows Subsystem for Linux (WSL) or a virtualization program like VMware Workstation, you don't have to do this.
 
 ### One Drive
 
