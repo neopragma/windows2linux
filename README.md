@@ -51,7 +51,7 @@ There are a couple of ways to do this. Think about whether you want a complete L
 
 ### Run some Linux programs but mainly use Windows 
 
-Use the Windows Subsystem for Linux (WSL) to install Linux that is made to work on your Windows system. You can then install the specific Linux program(s) you need to use. Using them will feel very much like using any other program on your Windows system.
+Use the Windows Subsystem for Linux (WSL) to install Linux on your Windows system. You can then install the specific Linux program(s) you need to use. Using them will feel very much like using any other program on your Windows system.
 
 - [How to install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 
